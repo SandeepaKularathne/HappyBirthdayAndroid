@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="app_header">Happy Birthday, Android!</string>
+    <string name="app_footer">from Sana</string>
+    <string name="todo" />
+</resources>
